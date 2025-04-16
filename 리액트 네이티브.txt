@@ -5,7 +5,6 @@ flutter도 가능 (다트?바트? 언어 배우는거 우선)
 
 설치
 npx create-expo-app@latest
-npm install react-native-modal
 
 실행
 npm start
