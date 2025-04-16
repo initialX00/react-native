@@ -1,0 +1,28 @@
+react native는 웹,ios,안드로이드 지원
+flutter도 가능 (다트?바트? 언어 배우는거 우선)
+노마드코드에서 배우기.
+
+
+설치
+npx create-expo-app@latest
+npm install react-native-modal
+
+실행
+npm start
+
+
+
+
+문법은 react와 비슷
+
+Stack이 리액트라우터와 역할이 같음.
+모바일 화면을 쌓는 형식
+
+tab, sreen, modal로 화면을 전환한다.
+url로 접근하는것이 아니라 파일을 접근한다.
+
+
+
+react-native사이트의
+the basic - core components and native components
+Core Components에서 기본 태그 숙지하기. div -> View
